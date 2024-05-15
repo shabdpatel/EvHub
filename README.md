@@ -1,5 +1,6 @@
 # EvHub
 
+![Herosection](https://photos.app.goo.gl/G8ZrGRCL21D9qcTd9)
 EvHub is a web application that tracks EV power stations and allows users to start their own stations by registering. It is built with React, Vite, and Tailwind CSS.
 
 ## Features
