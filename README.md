@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # evhubs
 # evhub
 # evhub
+# ev1
