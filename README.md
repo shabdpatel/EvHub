@@ -12,6 +12,8 @@ EvHub is a web application that tracks EV power stations and allows users to sta
 - **Search and Filter:** Users can easily search for nearby stations based on location, availability, and other criteria.
 - **Responsive Design:** The website is optimized for various devices, ensuring a seamless user experience on desktops, tablets, and mobile phones.
 
+![](/src/assets/Screenshot3.png)
+
 ## Installation
 
 1. Clone the repository:
