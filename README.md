@@ -1,8 +1,9 @@
 # EvHub
 
-![Herosection](./src/assests/Screenshot1.png)
+![Herosection](/src/assets/Screenshot1.png)
 EvHub is a web application that tracks EV power stations and allows users to start their own stations by registering. It is built with React, Vite, and Tailwind CSS.
 
+![](/src/assets/Screenshot2.png)
 ## Features
 
 - **EV Power Station Tracking:** Track EV power stations on an interactive map, providing real-time information such as availability, charging rates, and station types.
