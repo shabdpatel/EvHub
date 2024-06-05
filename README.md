@@ -14,7 +14,7 @@ EvHub is a web application that tracks EV power stations and allows users to sta
 
 ![](/src/assets/Screenshot3.png)
 
-## Installation
+## 
 
 1. Clone the repository:
 
